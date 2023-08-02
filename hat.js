@@ -5,17 +5,17 @@ let level; // level?
 
 let scale_centre; // center 
 let scale_start;
-let scale_ts;
+let scale_ts; 
 
-let reset_button;
+let reset_button; // this resets things 
 let subst_button;
 let translate_button;
 let scale_button;
-let draw_hats;
+let draw_hats; // this is a variable
 let draw_super;
-let radio;
+let radio; 
 
-let dragging = false;
+let dragging = false; // this can can be true 
 let uibox = true;
 let box_height = 10;
 
