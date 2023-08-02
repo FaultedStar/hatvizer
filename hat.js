@@ -1,9 +1,9 @@
 let to_screen = [20, 0, 0, 0, -20, 0];
 let lw_scale = 1;
-let tiles;
-let level;
+let tiles; // a tile 
+let level; // level? 
 
-let scale_centre;
+let scale_centre; // center 
 let scale_start;
 let scale_ts;
 
