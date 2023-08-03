@@ -1,8 +1,9 @@
 ### hatviz
 
 This is an example I want to do with my creative coding class. 
+this is a change just for demo 
 
-// all the below is not credited to me 
+// all the below is not credited to me  
 
 
 This is a small P5js sketch that lets you construct patches of aperiodic hat tiles, and displays them along with their associated metatile and supertile outlines. You can download the patches as PNG images or SVG vector illustrations. The mathematical structure of the tile and its tilings is described in the paper "An aperiodic monotile" (Smith, Myers, Kaplan, and Goodman-Strauss, 2023). For more information, including a link to the paper, see [my web page](https://cs.uwaterloo.ca/~csk/hat/) about this project.
